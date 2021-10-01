@@ -2,4 +2,4 @@
 
 Try it here!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rythorpe/erp_tutorial_hnn_core/HEAD?filepath=erp_tutorial_hnn_core_v01.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rythorpe/erp_tutorial_hnn_core/HEAD?filepath=erp_tutorial_hnn_core.ipynb)
