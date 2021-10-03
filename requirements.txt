@@ -2,4 +2,4 @@ NEURON
 matplotlib
 numpy
 scipy
-hnn-core
+hnn-core==0.2
