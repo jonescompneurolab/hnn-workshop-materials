@@ -1,5 +1,5 @@
-# ERP tutorial with HNN-core
+# HNN workshop materials
 
-Try it here!
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rythorpe/erp_tutorial_hnn_core/HEAD?filepath=erp_tutorial_hnn_core.ipynb)
+* ERP tutorial with HNN-core
+ * Compliments the [HNN-GUI ERP tutorial](https://jonescompneurolab.github.io/hnn-tutorials/erp/erp)
+ * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonescompneurolab/hnn-workshop-materials/HEAD?filepath=erp_tutorial_hnn_core.ipynb)
