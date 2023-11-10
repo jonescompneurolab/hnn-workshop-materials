@@ -8,7 +8,12 @@ Here we provide HNN-core notebooks that compliment the following
  * ERP tutorial
 
 # SfN 2023 Workshop Instructions
-### Loading HNN-GUI
+## Login to virtual desktop
+Choose the Desktop application and launch a new session (pick 6 nodes):
+
+https://ood.ccv.brown.edu/pun/sys/dashboard/batch_connect/sessions
+
+## Loading HNN-GUI
 Copy and paste the following into the terminal of the virtual desktop:
 ```
 singularity pull docker://jonescompneurolab/hnn
@@ -18,7 +23,7 @@ cd /home/hnn_user/hnn_source_code
 python3 hnn.py
 ```
 
-### Loading hnn-core jupyter notebook
+## Loading hnn-core jupyter notebook
 Copy and paste the following into the terminal of the virtual desktop:
 ```
 module load hnn-workshop/2023.11
